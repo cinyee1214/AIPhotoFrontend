@@ -8,7 +8,7 @@ catch(e) {
   $('.app').hide();
 }
 
-
+// comment..
 var recording = false;
 var recognition;
 var apigClient = apigClientFactory.newClient({ apiKey: "2M0snczng872P1tMS7koy9fHyLfr8U8F6qI7i5hO" });
